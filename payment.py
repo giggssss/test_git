@@ -8,6 +8,11 @@ def payment_2():
     # Add refund processing logic here
     return "Refund initiated successfully."
 
+def payment_processing2():
+    print("Processing payment...")
+    # Add payment processing logic here
+    return "Payment processed successfully."
+
 def payment_processing():
     print("Processing payment...")
     # Add payment processing logic here
