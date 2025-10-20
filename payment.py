@@ -22,3 +22,8 @@ def payment_refund():
     print("Initiating refund...")
     # Add refund processing logic here
     return "Refund initiated successfully."
+
+def payment_refund2():
+    print("Initiating refund...")
+    # Add refund processing logic here
+    return "Refund initiated successfully."
